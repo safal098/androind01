@@ -11,7 +11,7 @@
 - 💾 Local data persistence (optional upgrade)
 
 ## 📸 Screenshots
-([./screenshot.png](https://github.com/safal098/androind01/blob/cff9992afbe8ec6ffd060e81fdc0c430b059d49f/Screenshot%20(3).png))
+!([./screenshot.png](https://github.com/safal098/androind01/blob/cff9992afbe8ec6ffd060e81fdc0c430b059d49f/Screenshot%20(3).png))
 
 ---
 
